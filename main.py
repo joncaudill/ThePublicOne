@@ -76,7 +76,7 @@ today.
 The Vulnerability of Public Code:
 The modern open-source landscape has changed for the forseeable future. 
 Public code is instantly scraped, saved for later to have all value extracted 
-from it. Independent creators have started pulling public demos becuase their 
+from it. Independent creators have started pulling public demos because their 
 projects are being cloned, repackaged and shipped by malicious actors before 
 the original creators can benefit from their work with no realistic recourse. 
 We're at a point where you can have a livelihood or open source, not both.
